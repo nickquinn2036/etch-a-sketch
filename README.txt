@@ -7,7 +7,7 @@ A responsive browser sketchpad designed to simulate the mechanics of a mechanica
 * Responsive Flexbox Architecture: Responsive grid scaling using structural CSS math rather than layout grids.
 * Advanced Drawing Interaction Engine: Options for both standard continuous hover ink streams and absolute click-and-drag mouse tracking.
 * Custom Interaction Filters: Rainbow calculation algorithms and a progressive alpha-shading system.
-* Secret Easter Eggs: Hidden input keyboard listener mechanics (type `termo` or `rickroll`).
+* Secret Easter Eggs: Hidden input keyboard listener mechanics (type `termo` or `yeltsa`).
 
 ## Technologies Practiced
 * Vanilla JavaScript (ES6+)
