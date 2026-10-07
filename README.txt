@@ -18,3 +18,6 @@ A responsive browser sketchpad designed to simulate the mechanics of a mechanica
 
 * Some Redditor's: https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fin-lieu-of-the-annoying-ads-this-guy-is-in-i-turned-him-v0-59kgzoewsjpg1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Db21bb538f7e5640307871a168bc44fc00a0b1b25
 
+## Important Notes:
+
+Desktop Optimized (requires mouse/keyboard inputs)
