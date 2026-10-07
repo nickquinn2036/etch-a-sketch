@@ -136,7 +136,7 @@ window.addEventListener('keydown', (e) => {
         inputBuffer = ''; 
     }
 
-    if (inputBuffer.endsWith('rickroll')) {
+    if (inputBuffer.endsWith('yeltsa')) {
         inputBuffer = ''; 
         window.location.href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ';
     }
