@@ -3,11 +3,11 @@
 A responsive browser sketchpad designed to simulate the mechanics of a mechanical toy console. Built from scratch as part of The Odin Project foundation milestones.
 
 ## Core Features Implemented
-* **Dynamic Grid Generation:** Programmatic generation of scale-locked grids (up to 100x100 blocks) using calculated JavaScript loops.
-* **Responsive Flexbox Architecture:** Responsive grid scaling using structural CSS math rather than layout grids.
-* **Advanced Drawing Interaction Engine:** Options for both standard continuous hover ink streams and absolute click-and-drag mouse tracking.
-* **Custom Interaction Filters:** Rainbow calculation algorithms and a progressive alpha-shading system.
-* **Secret Easter Eggs:** Hidden input keyboard listener mechanics (type `termo` or `rickroll`).
+* Dynamic Grid Generation: Programmatic generation of scale-locked grids (up to 100x100 blocks) using calculated JavaScript loops.
+* Responsive Flexbox Architecture: Responsive grid scaling using structural CSS math rather than layout grids.
+* Advanced Drawing Interaction Engine: Options for both standard continuous hover ink streams and absolute click-and-drag mouse tracking.
+* Custom Interaction Filters: Rainbow calculation algorithms and a progressive alpha-shading system.
+* Secret Easter Eggs: Hidden input keyboard listener mechanics (type `termo` or `rickroll`).
 
 ## Technologies Practiced
 * Vanilla JavaScript (ES6+)
